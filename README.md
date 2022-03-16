@@ -1,1 +1,1 @@
-# Manutençao via desktop
+# Manutençao via CMD
